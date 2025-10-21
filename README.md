@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m a Software Engineering student at ALX, passionate about building scalable web apps, collaborating on open‑source projects, and creating inclusive digital solutions.
 
 <!--
 **solomorne/Solomorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
